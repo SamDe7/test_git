@@ -1,4 +1,4 @@
-import numpy as np 
+# import numpy as np 
 
 # arr = np.array([[[1, 2, 3], [4, 5, 6]],
 #                 [[7, 8, 9], [10, 11, 12]],
@@ -41,7 +41,7 @@ import numpy as np
 
 # В NumPy агрегатные функции — это методы, которые применяются к массиву и возвращают одно итоговое значение. Общая формула: агрегатор.массив().
 
-matrix = np.array([[1, 2, 3,], [4, 5, 6]])
+# matrix = np.array([[1, 2, 3,], [4, 5, 6]])
 # meann = matrix.mean(axis=1)
 # print(meann)
 
@@ -56,6 +56,13 @@ matrix = np.array([[1, 2, 3,], [4, 5, 6]])
 # print(matrix)
 # print(new_mat)
 
-changed_matrix = matrix.reshape(3, 2)
-print(changed_matrix)
+# changed_matrix = matrix.reshape(3, 2)
+# print(changed_matrix)
 
+# print(np.resize(matrix, (5, 1)))
+# print(np.random.randn(3, 2))
+
+from for_learning_pandas import calc
+
+res = calc(5, 3)
+print(res)

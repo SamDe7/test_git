@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2011c208-7dcd-4870-9d92-9bf41f7b6493" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature-file.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/first-subfolder/probnick.py" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/probnick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-subfolder/second-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-subfolder/sixth-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-subfolder/third-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-subfolder/fifth-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-subfolder/fourth-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-subfolder/github-file.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,22 +20,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2rfBbB9ZKgXX8QuZyYB67aR7tfe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.probnick.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/test_git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.probnick.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/test_git&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
