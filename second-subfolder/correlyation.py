@@ -39,7 +39,3 @@
 # plt.xlim(-10, 10)
 # plt.ylim(-100, 1)
 # plt.show()
-
-
-
-

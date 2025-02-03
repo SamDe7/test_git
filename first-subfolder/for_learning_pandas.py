@@ -148,13 +148,34 @@ import numpy as np
 # ax.set_ylabels('Reading')
 # plt.show()
 
-salary = pd.read_csv('income.csv')
+# salary = pd.read_csv('income.csv')
 
-# plt.plot(salary.index, salary.income)
-# salary.plot(kind='line')
-# salary['income'].plot()
-# sns.lineplot(data=salary)
-# salary.income.plot()
-# salary.plot()
-# sns.lineplot(x=salary.index, y = salary.income)
+# # plt.plot(salary.index, salary.income)
+# # salary.plot(kind='line')
+# # salary['income'].plot()
+# # sns.lineplot(data=salary)
+# # salary.income.plot()
+# # salary.plot()
+# # sns.lineplot(x=salary.index, y = salary.income)
+# plt.show()
+
+# df = pd.read_csv("genome_matrix(1).csv", index_col=0)
+# g = sns.heatmap(df, cmap='rainbow')
+# g.xaxis.set_ticks_position('top')
+# g.xaxis.set_tick_params(rotation=90)
+# plt.show()
+
+# np.random.seed(255)
+# data = np.random.rand(28, 28)
+# plt.imshow(data, cmap='rainbow')
+# plt.show()
+
+# dota = pd.read_csv('dota_hero_stats(1).csv')
+# dota['count roles '] = dota['roles'].map(lambda x: len(x.split(',')))
+# dota['count roles '].hist()
+# plt.show()
+
+iris = pd.read_csv('iris.csv')
+gist = iris.groupby(['sepal length','sepal width','petal length','petal width']).agg(('sepal length'))
 plt.show()
+
